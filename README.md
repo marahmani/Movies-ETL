@@ -6,6 +6,8 @@ once connected the data after extract to the AQL we got movies as
 ![image](https://user-images.githubusercontent.com/49285767/201453378-67692a63-91bd-4c3e-a899-b597c0ab85b9.png)
 
 
+
 and we got ratings as :
+
 
 ![image](https://user-images.githubusercontent.com/49285767/201453344-634d85cb-4f35-4006-83f6-53fc2c4994a8.png)
